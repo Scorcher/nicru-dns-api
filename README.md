@@ -31,3 +31,11 @@ nic_client_service_id=os.environ['NIC_SERVICE_ID']
 
 deactivate
 ```
+
+
+### Check NS server syncronisation
+
+```
+./check_name_servers.sh DOMAIN NS1 NS2
+```
+

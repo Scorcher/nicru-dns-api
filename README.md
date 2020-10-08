@@ -33,7 +33,7 @@ deactivate
 ```
 
 
-### Check NS server syncronisation
+### Check NS server synchronization
 
 ```
 ./check_name_servers.sh DOMAIN NS1 NS2
